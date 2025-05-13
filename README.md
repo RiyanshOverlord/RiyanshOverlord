@@ -1,10 +1,10 @@
 # 💫 About Me:
 
 🎓 I'm a B.Sc. IT graduate passionate about data-driven technologies and analytics<br>  
-🧠 Self-taught & self-driven — built a full stroke prediction system solo for my final year project<br>  
+🧠 Self-taught & self-driven — built a full stroke prediction system  for my final year project<br>  
 📈 Currently sharpening my skills in Data Science, Python, and soft skills like communication<br>  
 🤖 Completed a certified Data Science with Python internship by Teachnook<br>  
-💬 I'm open to internships, open-source collaboration, and continuous learning opportunities<br>  
+💬 I'm open to internships, open-source collaboration, and learning opportunities<br>  
 🌱 Exploring the versatility of data science across industries and real-world impact<br>  
 
 ## 🌐 Socials:
